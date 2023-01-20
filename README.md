@@ -1,11 +1,7 @@
 gd-text
 =======
 
-### Installation via Composer:
-
-```bash
-composer require stil/gd-text
-```
+PHP 8 
 
 ### Basic usage example
 ```php
